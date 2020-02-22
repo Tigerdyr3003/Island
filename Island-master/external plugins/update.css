@@ -1,0 +1,15 @@
+/*
+[data-name="Bash"] .scroller-wrap .scroller{
+    visibility: hidden;
+    word-spacing: -999px;
+    letter-spacing: -999px;
+}
+
+[data-name="Bash"] .scroller-wrap .scroller::before{
+    color: yellow;
+    visibility: visible;
+    word-spacing: normal;
+    letter-spacing: normal;
+    content: "We have updated the settings data. Download the new settings data in https://github.com/A-User-s-Discord-Themes/Bash/blob/master/bash.theme.css \a(This message will disappear in 1 day)";
+}
+*/

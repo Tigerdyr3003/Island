@@ -1,0 +1,22 @@
+/*A user*/
+.header-QKLPzZ .avatar-3EQepX[user_by_bdfdb="264062457448759296"]::before, .header-QKLPzZ .avatar-3EQepX[aria-label*="A user"]::before{
+    background: url("https://3t3.me/picture/material_wallpaper_1/2880x5120.png?lu=1568721297");
+    background-size: cover;
+    background-position: center;
+}
+
+/*BOTS*/
+
+/*Rythm*/
+.header-QKLPzZ .avatar-3EQepX[user_by_bdfdb="235088799074484224"]::before, .header-QKLPzZ .avatar-3EQepX[aria-label*="Rythm"]::before{
+    background: url("https://cdn.discordapp.com/splashes/231471142685245440/cd02a97c3cab211221f61089f5885012.jpg?size=1536");
+    background-size: cover;
+    background-position: center;
+}
+
+/*MEE6*/
+.header-QKLPzZ .avatar-3EQepX[user_by_bdfdb="159985870458322944"]::before, .header-QKLPzZ .avatar-3EQepX[aria-label*="MEE6"]::before{
+    background: url("https://canary.discordapp.com/assets/d03d90cb6f12a7ea06274b278dfa4160.svg");
+    background-size: cover;
+    background-position: center;
+}
